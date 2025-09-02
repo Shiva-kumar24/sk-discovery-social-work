@@ -5,7 +5,7 @@ This project analyzes and categorizes public feedback on the Centers for Medicar
 
 ---
 
-![CMS Proposed Rule on Minimum Staffing - Status Update (Dec 2024)](poster-dec2024.png)
+![CMS Proposed Rule on Minimum Staffing](poster.png)
 
 ---
 
